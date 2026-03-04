@@ -3,9 +3,7 @@
 A command-line utility for estimating pulsar distances from Right Ascension, Declination, and Dispersion Measure using a NE2001 model
 The tool by the Pulsar Science Collaboratory works well, but I made this because I prefer to stay in the terminal :)
 
-  ╔══════════════════════════════════════════╗
-  ║         PULSAR DISTANCE ESTIMATOR        ║
-  ╚══════════════════════════════════════════╝
+ 
 
   RA  : 05:34:31.97
   DEC : +22:00:52.1
