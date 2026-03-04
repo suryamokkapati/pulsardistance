@@ -1,6 +1,7 @@
 # pulsardistance 
 
-A command-line utility for estimating pulsar distances from Right Ascension, Declination, and Dispersion Measure using a NE2001 model
+A command-line utility for estimating pulsar distances from Right Ascension, Declination, and Dispersion Measure using a NE2001 model. 
+
 The tool by the Pulsar Science Collaboratory works well, but I made this because I prefer to stay in the terminal :)
 
  
