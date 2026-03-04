@@ -1,6 +1,8 @@
-# pulsardistance 🌌
+# pulsardistance 
 
-A command-line utility for estimating pulsar distances from **RA**, **DEC**, and **Dispersion Measure (DM)**. Uses the full, published industry-standard electron density models via [PyGEDM](https://github.com/FRBs/pygedm) — no approximations.
+A command-line utility for estimating pulsar distances from **RA**, **DEC**, and **Dispersion Measure**. Uses electron density models via [PyGEDM](https://github.com/FRBs/pygedm) 
+
+I got tired of keeping on having to load up the web page for the GBT calculator so I just made one for the command-line. I also just prefer to stay in the terminal :)
 
 Both models are run on every query and displayed side by side, along with a pulse scattering time estimate and model spread percentage.
 
