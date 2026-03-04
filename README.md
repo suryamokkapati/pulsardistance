@@ -5,16 +5,9 @@ The tool by the Pulsar Science Collaboratory works well, but I made this because
 
  
 
-  RA  : 05:34:31.97
-  DEC : +22:00:52.1
-  DM  (cm⁻³ pc) : 56.77
 
-  ─────────────────────────────────────────────
-  Galactic coords  →  l = 184.5575°   b = -5.7839°
-  DM               →  56.77 pc cm⁻³
-  Est. distance    →  2.031 kpc  (6626 light-years)
-  ─────────────────────────────────────────────
-```
+
+
 
 ---
 
