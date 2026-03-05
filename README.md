@@ -4,13 +4,7 @@ A command-line tool that estimates pulsar distances from dispersion measure usin
 
 You can use the browser calculator from the PSC, but I prefer to stay in the terminal :)
 
-```
-+--------------------------------------+
-|       PULSAR DISTANCE UTILITY        |
-+--------------------------------------+
 
-
-```
 
 ---
 
