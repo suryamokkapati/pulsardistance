@@ -16,7 +16,7 @@ You can use the browser calculator from the PSC, but I prefer to stay in the ter
 ```bash
 sudo apt update
 sudo apt install gcc make
-git clone https://github.com/YOUR_USERNAME/pulsar.git
+git clone https://github.com/suryamokkapati/pulsardistance.git
 cd pulsar
 make
 sudo make install
@@ -26,7 +26,7 @@ sudo make install
 
 ```bash
 sudo pacman -S gcc make
-git clone https://github.com/YOUR_USERNAME/pulsar.git
+git clone https://github.com/suryamokkapati/pulsardistance.git
 cd pulsar
 make
 sudo make install
