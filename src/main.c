@@ -1,4 +1,3 @@
-File Edit Options Buffers Tools C Help                                                                                                                                                                                                                                                                                      
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
